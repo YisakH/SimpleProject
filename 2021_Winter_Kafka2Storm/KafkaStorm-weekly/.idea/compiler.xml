@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="KafkaStorm" />
+        <module name="KafkaStorm - 복사본" />
+        <module name="KafkaStorm - 찐막" />
+        <module name="weekly_count" />
+        <module name="KafkaStorm - 복사본 - 복사본" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
